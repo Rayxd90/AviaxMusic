@@ -19,7 +19,7 @@
 
 Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
 
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
+1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NVM_ZX) to get the necessary script.
 2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
 3. **Fork the Repository**: Fork this repository to your GitHub account.
 4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
@@ -75,7 +75,7 @@ You can now generate and manage your API keys through our official dashboard —
 
 - 🔄 **Daily Reset**: Request limits reset at midnight (IST) every day.
 - 🎵 **Audio-Only API**: Video support requires cookies (see YouTube section above).
-- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/+DXGe6UE90y01NDVl)
+- 💬 **Community Support**: For API-specific help, join the [API Community Group](https://t.me/NVM_XD)
 
 ---
 
@@ -167,10 +167,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBo
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/NVM_ZX>
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/NexGenSpam">
+  <a href="https://telegram.me/NVM_XD">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -201,4 +201,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
-- **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
+- **Special Thanks** to [SPiDER 🇮🇳](https://github.com/rayxd90) for invaluable assistance in resolving the IP ban issue.
